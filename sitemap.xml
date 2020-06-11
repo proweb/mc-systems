@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="mc-systems.ru/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://mc-systems.ru/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>mc-systems.ru/</loc>
+<loc>https://mc-systems.ru/</loc>
 </url>
 <url>
-<loc>mc-systems.ru/servisy-dlya-vedeniya-byudzheta/</loc>
+<loc>https://mc-systems.ru/servisy-dlya-vedeniya-byudzheta/</loc>
 <lastmod>2020-06-11T13:46:22+03:00</lastmod>
 <image:image>
-<image:loc>mc-systems.ru/media/posts/1/william-iven-jrh5lAq-mIs-unsplash.jpg</image:loc>
+<image:loc>https://mc-systems.ru/media/posts/1/william-iven-jrh5lAq-mIs-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
