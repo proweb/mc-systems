@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>МЦ-системс - блог о личных финансах</title>
-    <link href="./mc-systems/feed.xml" rel="self" />
-    <link href="./mc-systems" />
-    <updated>2020-06-11T10:13:57+03:00</updated>
+    <link href=".//feed.xml" rel="self" />
+    <link href="./" />
+    <updated>2020-06-11T13:48:17+03:00</updated>
     <author>
         <name>Сергей Мочалов</name>
     </author>
-    <id>./mc-systems</id>
+    <id>./</id>
 
     <entry>
         <title>Сервисы для ведения бюджета</title>
         <author>
             <name>Сергей Мочалов</name>
         </author>
-        <link href="./mc-systems/servisy-dlya-vedeniya-byudzheta/"/>
-        <id>./mc-systems/servisy-dlya-vedeniya-byudzheta/</id>
+        <link href=".//servisy-dlya-vedeniya-byudzheta/"/>
+        <id>.//servisy-dlya-vedeniya-byudzheta/</id>
 
-        <updated>2020-06-11T09:40:44+03:00</updated>
+        <updated>2020-06-11T13:46:22+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="./mc-systems/media/posts/1/william-iven-jrh5lAq-mIs-unsplash.jpg" alt="" />
-                    [{"id":1591392310957,"type":"publii-header","content":"Бесплатные","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":""}}},{"id":1591392330122,"type":"publii-list","content":"Сервис одинСервис дваСервис три ","config":{"listType":"ul","advanced":{"cssClasses":"","id":""},"link":{"url":"","noFollow":true,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1591392315514,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591392320785,"type":"publii-header","content":"Платные","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":""}}}]
+                        <img src=".//media/posts/1/william-iven-jrh5lAq-mIs-unsplash.jpg" alt="" />
+                    [{"id":1591871928799,"type":"publii-toc","content":{"toc":"БесплатныеПлатные","title":"Содержание"},"config":{"advanced":{"cssClasses":"","id":""}}},{"id":1591871960193,"type":"publii-header","content":"Бесплатные","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":""}}},{"id":1591392330122,"type":"publii-list","content":"Сервис одинСервис дваСервис три ","config":{"listType":"ul","advanced":{"cssClasses":"","id":""},"link":{"url":"","noFollow":true,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1591392315514,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591392320785,"type":"publii-header","content":"Платные","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":""}}}]
                 ]]>
             </summary>
         <content></content>
