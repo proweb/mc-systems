@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>МЦ-системс - блог о личных финансах</title>
-    <link href="https://proweb.github.io/mc-systems/feed.xml" rel="self" />
-    <link href="https://proweb.github.io/mc-systems" />
-    <updated>2020-06-11T09:46:30+03:00</updated>
+    <link href="https://mc-systems.ru/feed.xml" rel="self" />
+    <link href="https://mc-systems.ru" />
+    <updated>2020-06-11T10:11:49+03:00</updated>
     <author>
         <name>Сергей Мочалов</name>
     </author>
-    <id>https://proweb.github.io/mc-systems</id>
+    <id>https://mc-systems.ru</id>
 
     <entry>
         <title>Сервисы для ведения бюджета</title>
         <author>
             <name>Сергей Мочалов</name>
         </author>
-        <link href="https://proweb.github.io/mc-systems/servisy-dlya-vedeniya-byudzheta/"/>
-        <id>https://proweb.github.io/mc-systems/servisy-dlya-vedeniya-byudzheta/</id>
+        <link href="https://mc-systems.ru/servisy-dlya-vedeniya-byudzheta/"/>
+        <id>https://mc-systems.ru/servisy-dlya-vedeniya-byudzheta/</id>
 
         <updated>2020-06-11T09:40:44+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://proweb.github.io/mc-systems/media/posts/1/william-iven-jrh5lAq-mIs-unsplash.jpg" alt="" />
+                        <img src="https://mc-systems.ru/media/posts/1/william-iven-jrh5lAq-mIs-unsplash.jpg" alt="" />
                     [{"id":1591392310957,"type":"publii-header","content":"Бесплатные","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":""}}},{"id":1591392330122,"type":"publii-list","content":"Сервис одинСервис дваСервис три ","config":{"listType":"ul","advanced":{"cssClasses":"","id":""},"link":{"url":"","noFollow":true,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1591392315514,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591392320785,"type":"publii-header","content":"Платные","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":""}}}]
                 ]]>
             </summary>
